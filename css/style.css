@@ -1,0 +1,38 @@
+body{}
+div{}
+h1,h2,h3,h4,h5,h6{ font-weight:100}
+.ui-page-theme-a{ text-shadow:none; color:#fff;}
+.ui-page-theme-a .ui-body-inherit{background:none; border-radius:0}
+.ui-page-theme-a .ui-btn,
+html .ui-bar-a .ui-btn,
+html .ui-body-a .ui-btn,
+html body .ui-group-theme-a .ui-btn,
+html head+body .ui-btn.ui-btn-a,
+.ui-page-theme-a .ui-btn:visited,
+html .ui-bar-a .ui-btn:visited,
+html .ui-body-a .ui-btn:visited,
+html body .ui-group-theme-a .ui-btn:visited,
+html head+body .ui-btn.ui-btn-a:visited{ border-radius:0; border:#fff 1px solid; background-color:#5fbb56; text-shadow:none; color:#fff; font-weight:100}
+.ui-page-theme-a .ui-btn:hover,
+html .ui-bar-a .ui-btn:hover,
+html .ui-body-a .ui-btn:hover,
+html body .ui-group-theme-a .ui-btn:hover,
+html head+body .ui-btn.ui-btn-a:hover{ opacity:.95; text-shadow:none;}
+.ui-input-text input{ border:#fff 1px solid; border-radius:0; background:none; color:#fff; text-shadow:none;}
+
+.form-group{ margin-bottom:20px}
+
+/* soccer1 */
+#soccer1{ background:#413e39}
+
+/* soccer2 */
+#soccer2{ background:#069f4d}
+
+/* soccer3 */
+#soccer3{ background:#413e39}
+
+/* soccer4 */
+#soccer4{ background:#069f4d}
+
+/* soccer5 */
+#soccer5{ background:#413e39}
